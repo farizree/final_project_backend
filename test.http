@@ -2,11 +2,11 @@
 POST http://localhost:3000/register
 Content-Type: application/json
 {
-  "name": "Rachmat Hidayat", 
-  "username": "rachmath", 
-  "email": "rachmat.hidayat@gmail.com", 
-  "phoneNumber": "628111880461", 
-  "address": "Tangerang Selatan", 
+  "name": "Fariz", 
+  "username": "farizree", 
+  "email": "farizree@gmail.com", 
+  "phoneNumber": "+628111948180", 
+  "address": "Depok", 
   "role": "Admin", 
   "password":"SecretAdmin"
 }
